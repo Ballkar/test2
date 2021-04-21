@@ -8,3 +8,4 @@
 
 ## nowy teścik zaczynam
 # commit z głównego repo
+# commit po release(rc_1.0.1)
